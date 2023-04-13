@@ -1,0 +1,17 @@
+#bigBoxHome {
+    height: 100vh;
+    border: 0.2px solid white;
+   
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/015/412/288/original/alexandra-vezhnovets-library.gif?1548239266);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    
+   
+}
+
+.boxBtns{
+    text-align: center;
+    position: fixed;
+    top: 60vh;
+    right: 15vh;
+}
